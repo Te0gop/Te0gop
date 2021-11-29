@@ -10,6 +10,5 @@
 - ⚡ Fun fact: ...
 
 - ### 📫 How to reach me?
-- [Twitter](https://twitter.com/Te0gop) 
-- [LinkedIn](https://www.linkedin.com/in/Te0gop) 
--->
+- [Twitter](https://twitter.com/Te0gop), [LinkedIn](https://www.linkedin.com/in/Te0gop) 
+
