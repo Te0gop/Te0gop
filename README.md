@@ -1,3 +1,4 @@
+<hr>
 <h1 align="center">Hi 👋, I'm Teodor!</h1>
 <hr>
 <p align="center">
