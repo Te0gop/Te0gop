@@ -9,14 +9,6 @@
   <br>
 </p>
 
-
-
-
-
-
-
-
-
 <hr>
 
 <h2  align="center">📫 Reach me on:</h2>
