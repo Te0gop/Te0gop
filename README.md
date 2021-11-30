@@ -9,7 +9,10 @@
   <br>
 </p>
 
-
+<p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=Te0gop&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=Te0gop&repo=pixel-weather">
+</p> -->
 
 <hr>
 
