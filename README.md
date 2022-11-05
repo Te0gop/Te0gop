@@ -19,5 +19,5 @@
 </p>
 
 <hr>
-## Contribution Snake Grid
+# Contribution Snake Grid
 ![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
