@@ -11,6 +11,11 @@
 
 <hr>
 
+<h2 align="center">:snake: Contribution Snake Grid:</h2>
+
+![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
 <h2  align="center">📫 Reach me on:</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/Te0gop/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +24,4 @@
 </p>
 
 <hr>
-<h2 align="center">:snake: Contribution Snake Grid:</h2>
 
-![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
-<hr>
