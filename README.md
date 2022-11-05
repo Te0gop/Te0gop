@@ -19,6 +19,6 @@
 </p>
 
 <hr>
-<h1 align="center">Contribution Snake Grid</h1>
+<h2 align="center">Contribution Snake Grid</h2>
 
 ![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
