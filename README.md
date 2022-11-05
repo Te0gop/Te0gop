@@ -21,4 +21,3 @@
 <hr>
 
 ![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
