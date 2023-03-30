@@ -12,7 +12,9 @@
 <hr>
 
 <h2 align="center">:snake: Contribution Snake Grid:</h2>
+
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
 <h2  align="center">📫 Reach me on:</h2>
