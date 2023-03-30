@@ -13,7 +13,7 @@
 
 <h2 align="center">:snake: Contribution Snake Grid:</h2>
 
-![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-snake-dark.svg)
 <hr>
 
 <h2  align="center">📫 Reach me on:</h2>
