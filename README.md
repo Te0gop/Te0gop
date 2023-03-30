@@ -12,12 +12,7 @@
 <hr>
 
 <h2 align="center">:snake: Contribution Snake Grid:</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 <h2  align="center">📫 Reach me on:</h2>
