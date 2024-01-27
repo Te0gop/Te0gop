@@ -13,7 +13,11 @@
 
 <h2 align="center">:snake: Contribution Snake Grid:</h2>
 
-![snake gif](https://github.com/Te0gop/Te0gop/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <hr>
 
